@@ -1,8 +1,8 @@
 {
     "client_id":"<your App ID aka Client ID>",
-    "cert_thumbprint":"<Certificate Thumbprint",
+    "cert_thumbprint":"<Certificate Thumbprint>",
     "authority":"<Authority URL in the format https://login.microsoftonline.com/<tenantname>>",
-    "tenant_id":"<your tenant ID",
+    "tenant_id":"<your tenant ID>",
     "resource":"https://datalake.azure.net/",
     "pem_file":"<local path to PEM file>",
     "adls_name":"<your ADL-S name>"
